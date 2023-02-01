@@ -1,0 +1,1 @@
+export { IntrinsicImages } from "./intrinsic-images";
